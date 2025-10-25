@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amine%20Ghanjfa&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Software%20Developer&descAlignY=55&descSize=20" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_Goal-Ausbildung_2025-00D9FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🎯_Goal-Ausbildung_2026-00D9FF?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/📍_Location-Morocco_🇲🇦-00D9FF?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/💼_Status-Seeking_Ausbildung-00D9FF?style=for-the-badge&labelColor=000000" />
 </p>
