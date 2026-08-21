@@ -17,6 +17,7 @@ I am a motivated software-development learner from **Fès, Morocco**, building p
 
 | Project | Description | Technologies |
 | --- | --- | --- |
+| [Ausbildung Task API](https://github.com/codebyamine/ausbildung-task-api) | Task-management REST API demonstrating layered backend design, validation, persistence, and automated tests. | Java 17, Spring Boot, JPA, H2, JUnit |
 | [TaskMaster Pro](https://github.com/codebyamine/TaskMaster-Pro) | Multilingual task-management web application with authentication, priorities, due dates, and a dashboard. | Python, Flask, SQLite, JavaScript |
 | [NexusAuth](https://github.com/codebyamine/nexus-auth-portal) | Responsive authentication portal focused on reusable UI components and accessibility. | React, TypeScript, Tailwind CSS, Vite |
 | [LoginSystem-Java](https://github.com/codebyamine/LoginSystem-Java) | Command-line login system demonstrating classes, validation, local persistence, and password hashing. | Java, OOP, SHA-256 |
@@ -26,9 +27,10 @@ I am a motivated software-development learner from **Fès, Morocco**, building p
 
 ```text
 Languages:     Java · Python · JavaScript · C# · HTML · CSS
-Web:           Flask · React · TypeScript · Tailwind CSS · Responsive UI
-Data:          SQLite · SQL fundamentals · Local persistence
-Practices:     OOP · Git/GitHub · Debugging · Documentation · Accessibility
+Backend:       Spring Boot · REST APIs · Flask · JPA
+Frontend:      React · TypeScript · Tailwind CSS · Responsive UI
+Data:          H2 · SQLite · SQL fundamentals · Local persistence
+Practices:     OOP · Git/GitHub · JUnit · Debugging · Documentation · Accessibility
 
 Currently improving: German communication and full-stack development
 ```
